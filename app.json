@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeInstagram",
+  "displayName": "ReactNativeInstagram",
+  "expo": {
+    "name": "ReactNativeInstagram",
+    "slug": "ReactNativeInstagram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
