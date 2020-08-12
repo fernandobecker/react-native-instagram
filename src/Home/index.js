@@ -68,11 +68,11 @@ class Home extends Component {
         <View style={styles.header}>
           
           <TouchableOpacity>
-            <Image source={require("./src/img/logo.png")} style={styles.logo} />
+            <Image source={require("../img/logo.png")} style={styles.logo} />
           </TouchableOpacity>
 
           <TouchableOpacity>
-            <Image source={require("./src/img/send.png")} style={styles.send} />
+            <Image source={require("../img/send.png")} style={styles.send} />
           </TouchableOpacity>
 
         </View>
